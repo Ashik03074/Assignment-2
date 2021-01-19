@@ -1,0 +1,38 @@
+.juta-logo img {
+  width: 292px;
+  height: 40px;
+}
+header {
+  background-color: antiquewhite;
+}
+.header-img img {
+  width: 460px;
+}
+.div2 {
+  padding-left: 200px;
+}
+.card-img-top {
+  background-color: #f1f1f1;
+  border-radius: 20px;
+  width: 324px;
+  margin: 15px;
+}
+.card-view {
+  border: 0;
+  border-radius: 20px;
+}
+.card-footer {
+  border: 0;
+  background-color: white;
+  border-radius: 20px;
+}
+.footer-row img {
+  width: 70px;
+}
+.footer-row {
+  height: 150px;
+  border-radius: 20px;
+}
+button img {
+  width: 20px;
+}
